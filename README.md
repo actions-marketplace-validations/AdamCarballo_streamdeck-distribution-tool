@@ -80,7 +80,7 @@ Legal
 ------
 This GitHub Action wraps the original and official Stream Deck binaries to export and distribute plugins (`DistributionTool`).
 
-The binaries can be found as part of Stream Deck SDK documentation [here](https://developer.elgato.com/documentation/stream-deck/sdk/packaging/). The download page and binaries have no versioning system, so if the binaries don't match, the source may have an updated version. If that's the case, please open an [issue](https://github.com/AdamCarballo/streamdeck-distribution-tool/issues) so I can update them.
+The binaries can be found as part of Stream Deck SDK documentation [here](https://docs.elgato.com/sdk/plugins/packaging). The download page and binaries have no versioning system, so if the binaries don't match, the source may have an updated version. If that's the case, please open an [issue](https://github.com/AdamCarballo/streamdeck-distribution-tool/issues) so I can update them.
 
 *Current included binaries version is `1.7`, updated as of 3rd of January 2023.*
 
